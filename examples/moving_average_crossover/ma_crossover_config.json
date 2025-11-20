@@ -1,0 +1,7 @@
+{
+  "symbols": ["AAPL", "MSFT"],
+  "data_directory": "data",
+  "starting_cash": 100000.0,
+  "short_window": 20,
+  "long_window": 50
+}

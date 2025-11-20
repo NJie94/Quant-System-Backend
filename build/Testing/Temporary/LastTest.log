@@ -1,0 +1,55 @@
+Start testing: Nov 20 23:38 Malay Peninsula Standard Time
+----------------------------------------------------------
+1/3 Testing: test_bar
+1/3 Test: test_bar
+Command: "D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/tests/Release/test_bar.exe"
+Directory: D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/tests
+"test_bar" start time: Nov 20 23:38 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+test_bar: OK
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_bar" end time: Nov 20 23:38 Malay Peninsula Standard Time
+"test_bar" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: test_portfolio
+2/3 Test: test_portfolio
+Command: "D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/tests/Release/test_portfolio.exe"
+Directory: D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/tests
+"test_portfolio" start time: Nov 20 23:38 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+test_portfolio: OK
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_portfolio" end time: Nov 20 23:38 Malay Peninsula Standard Time
+"test_portfolio" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: test_backtestEngine
+3/3 Test: test_backtestEngine
+Command: "D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/tests/Release/test_backtest_engine.exe"
+Directory: D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/tests
+"test_backtestEngine" start time: Nov 20 23:38 Malay Peninsula Standard Time
+Output:
+----------------------------------------------------------
+Final equity: 0
+CAGR: 0
+Sharpe: 0
+Max DD: 0
+test_backtest_engine: OK
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_backtestEngine" end time: Nov 20 23:38 Malay Peninsula Standard Time
+"test_backtestEngine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 20 23:38 Malay Peninsula Standard Time

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\build\CMakeFiles\64b26847b45b0d560bd3c8252bcd2ce7\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{656578B7-BDEB-3043-B30B-5D733672E504}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

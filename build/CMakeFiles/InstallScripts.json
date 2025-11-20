@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/cmake_install.cmake",
+		"D:/1.0 Project/6.0 Internal Transfer/instrument-software-coding-assignment-16Sep2024/Quant-System-Backend/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

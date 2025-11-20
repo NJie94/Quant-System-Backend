@@ -1,0 +1,4 @@
+test_bar 1 0.0287971
+test_portfolio 1 0.0210079
+test_backtestEngine 1 0.0276513
+---

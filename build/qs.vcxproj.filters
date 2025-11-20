@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\core\Bar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\core\TimeSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\core\Portfolio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\core\RiskMetrics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\data\CsvDataFeed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\strategy\MeanReversionStrategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\strategy\MomentumStrategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\exec\SimpleExecutionModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\backtest\BacktestEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\util\Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\src\util\Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\1.0 Project\6.0 Internal Transfer\instrument-software-coding-assignment-16Sep2024\Quant-System-Backend\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{45C6FC22-C745-3D8A-A6FF-6031DC133138}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
